@@ -46,4 +46,3 @@ Add additional notes about how to deploy this on a live system
 ## Acknowledgments
 
 * My classmates for putting up with me and helping me get this right
-# currency_converter_redux
